@@ -1,26 +1,61 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
+# [HTML5 Boilerplate](http://html5boilerplate.com)
 
-[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
+HTML5 Boilerplate is a professional front-end template for building fast,
+robust, and adaptable web apps or sites.
 
-## Getting Started
+This project is the product of many years of iterative development and combined
+community knowledge. It does not impose a specific development philosophy or
+framework, so you're free to architect your code in the way that you want.
 
-To use this theme, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+* Source: [https://github.com/h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
+* Homepage: [http://html5boilerplate.com](http://html5boilerplate.com)
+* Twitter: [@h5bp](http://twitter.com/h5bp)
 
-## Bugs and Issues
 
-Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-freelancer/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/).
+## Quick start
 
-## Creator
+Choose one of the following options:
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+1. Download the latest stable release from
+   [html5boilerplate.com](http://html5boilerplate.com/) or a custom build from
+   [Initializr](http://www.initializr.com).
+2. Clone the git repo — `git clone
+   https://github.com/h5bp/html5-boilerplate.git` - and checkout the tagged
+   release you'd like to use.
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+## Features
 
-## Copyright and License
+* HTML5 ready. Use the new elements with confidence.
+* Cross-browser compatible (Chrome, Opera, Safari, Firefox 3.6+, IE6+).
+* Designed with progressive enhancement in mind.
+* Includes [Normalize.css](http://necolas.github.com/normalize.css/) for CSS
+  normalizations and common bug fixes.
+* The latest [jQuery](http://jquery.com/) via CDN, with a local fallback.
+* The latest [Modernizr](http://modernizr.com/) build for feature detection.
+* IE-specific classes for easier cross-browser control.
+* Placeholder CSS Media Queries.
+* Useful CSS helpers.
+* Default print CSS, performance optimized.
+* Protection against any stray `console.log` causing JavaScript errors in
+  IE6/7.
+* An optimized Google Analytics snippet.
+* Apache server caching, compression, and other configuration defaults for
+  Grade-A performance.
+* Cross-domain Ajax and Flash.
+* "Delete-key friendly." Easy to strip out parts you don't need.
+* Extensive inline and accompanying documentation.
 
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
+
+## Documentation
+
+Take a look at the [documentation table of contents](doc/TOC.md). This
+documentation is bundled with the project, which makes it readily available for
+offline reading and provides a useful starting point for any documentation you
+want to write about your project.
+
+
+## Contributing
+
+Anyone and everyone is welcome to [contribute](CONTRIBUTING.md). Hundreds of
+developers have helped make the HTML5 Boilerplate what it is today.
